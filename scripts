@@ -1,0 +1,5 @@
+- scripts para la justificación del flujo de trabajo (pipeline) 
+- scripts para un entorno requerido para la liberación y despliegue continuo.
+- scripts para niveles de servicio acordados.
+- scripts para métricas para el monitoreo de la aplicación.
+- scripts para parámetros de configuración de las herramientas utilizadas
